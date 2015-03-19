@@ -12,8 +12,10 @@
 <!ENTITY imagetoolbar.settings.save.click "Al clickear el botón Guardar:">
 <!ENTITY imagetoolbar.settings.save.prompt "Preguntar la ubicación y el nombre del archivo">
 <!ENTITY imagetoolbar.settings.save.autosave "Guardar automáticamente en la carpeta predefinida">
+<!ENTITY imagetoolbar.settings.save.timeuid "Use time-based unique file names">
 <!ENTITY imagetoolbar.settings.save.prompt.key "P">
 <!ENTITY imagetoolbar.settings.save.autosave.key "M">
+<!ENTITY imagetoolbar.settings.save.timeuid.key "U">
 <!ENTITY imagetoolbar.settings.customise.display "Mostrar los siguientes botones:">
 <!ENTITY imagetoolbar.settings.customise.iconsize "Usar iconos pequeños">
 <!ENTITY imagetoolbar.settings.customise.textlabels "Mostrar etiquetas">

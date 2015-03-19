@@ -12,8 +12,10 @@
 <!ENTITY imagetoolbar.settings.save.click "Kiknutím na tlačidlo &quot;Uložiť&quot; sa:">
 <!ENTITY imagetoolbar.settings.save.prompt "zobrazí výzva k zadaniu umiestnenia a názvu súboru">
 <!ENTITY imagetoolbar.settings.save.autosave "obrázok automaticky uloží do prednastaveného priečinku">
+<!ENTITY imagetoolbar.settings.save.timeuid "Use time-based unique file names">
 <!ENTITY imagetoolbar.settings.save.prompt.key "z">
 <!ENTITY imagetoolbar.settings.save.autosave.key "o">
+<!ENTITY imagetoolbar.settings.save.timeuid.key "U">
 <!ENTITY imagetoolbar.settings.customise.display "Zobraziť nasledujúce tlačidlá:">
 <!ENTITY imagetoolbar.settings.customise.iconsize "Použiť malé ikony">
 <!ENTITY imagetoolbar.settings.customise.textlabels "Zobraziť textové popisky">

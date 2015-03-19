@@ -12,8 +12,10 @@
 <!ENTITY imagetoolbar.settings.save.click "Clicant al botó de salvar s&apos;hauria de:">
 <!ENTITY imagetoolbar.settings.save.prompt "marcar ruta i nom d&apos;arxiu">
 <!ENTITY imagetoolbar.settings.save.autosave "automàticament salvar al directori per defecte">
+<!ENTITY imagetoolbar.settings.save.timeuid "Use time-based unique file names">
 <!ENTITY imagetoolbar.settings.save.prompt.key "P">
 <!ENTITY imagetoolbar.settings.save.autosave.key "M">
+<!ENTITY imagetoolbar.settings.save.timeuid.key "U">
 <!ENTITY imagetoolbar.settings.customise.display "Mostra els següents botons:">
 <!ENTITY imagetoolbar.settings.customise.iconsize "Usa icones petites">
 <!ENTITY imagetoolbar.settings.customise.textlabels "Mostra volums de text">

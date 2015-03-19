@@ -12,8 +12,10 @@
 <!ENTITY imagetoolbar.settings.save.click "Με το πάτημα του κουμπιού αποθήκευσης">
 <!ENTITY imagetoolbar.settings.save.prompt "Προτροπή για διαδρομή και όνομα αρχείου">
 <!ENTITY imagetoolbar.settings.save.autosave "Αυτόματη αποθήκευση στον προεπιλεγμένο φάκελο">
+<!ENTITY imagetoolbar.settings.save.timeuid "Use time-based unique file names">
 <!ENTITY imagetoolbar.settings.save.prompt.key "δ">
 <!ENTITY imagetoolbar.settings.save.autosave.key "π">
+<!ENTITY imagetoolbar.settings.save.timeuid.key "U">
 <!ENTITY imagetoolbar.settings.customise.display "Εμφάνιση των παρακάτω κουμπιών:">
 <!ENTITY imagetoolbar.settings.customise.iconsize "Μικρά εικονίδια">
 <!ENTITY imagetoolbar.settings.customise.textlabels "Επεξηγήσεις εικονιδίων">

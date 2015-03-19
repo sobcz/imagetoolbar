@@ -21,9 +21,11 @@
 <!ENTITY imagetoolbar.settings.save.click "按下「儲存」按鈕要執行的動作:">
 <!ENTITY imagetoolbar.settings.save.prompt "提示輸入儲存位置和檔名">
 <!ENTITY imagetoolbar.settings.save.autosave "自動儲存至預設資料夾">
+<!ENTITY imagetoolbar.settings.save.timeuid "Use time-based unique file names">
 
 <!ENTITY imagetoolbar.settings.save.prompt.key "P">
 <!ENTITY imagetoolbar.settings.save.autosave.key "M">
+<!ENTITY imagetoolbar.settings.save.timeuid.key "U">
 
 <!-- Customise Settings -->
 

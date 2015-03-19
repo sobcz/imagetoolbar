@@ -12,8 +12,10 @@
 <!ENTITY imagetoolbar.settings.save.click "Klik på gem-knappen giver:">
 <!ENTITY imagetoolbar.settings.save.prompt "prompt for et sted og filnavn">
 <!ENTITY imagetoolbar.settings.save.autosave "gemmer automatisk til standardmappen">
+<!ENTITY imagetoolbar.settings.save.timeuid "Use time-based unique file names">
 <!ENTITY imagetoolbar.settings.save.prompt.key "p">
 <!ENTITY imagetoolbar.settings.save.autosave.key "m">
+<!ENTITY imagetoolbar.settings.save.timeuid.key "U">
 <!ENTITY imagetoolbar.settings.customise.display "Vis følgende knapper:">
 <!ENTITY imagetoolbar.settings.customise.iconsize "Brug små ikoner">
 <!ENTITY imagetoolbar.settings.customise.textlabels "Vis tekstmærkater">

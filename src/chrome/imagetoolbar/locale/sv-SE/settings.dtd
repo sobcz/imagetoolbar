@@ -12,8 +12,10 @@
 <!ENTITY imagetoolbar.settings.save.click "Åtgärd vid &apos;Spara&apos;:">
 <!ENTITY imagetoolbar.settings.save.prompt "Välj plats och filnamn">
 <!ENTITY imagetoolbar.settings.save.autosave "Spara automatiskt i den förvalda mappen">
+<!ENTITY imagetoolbar.settings.save.timeuid "Use time-based unique file names">
 <!ENTITY imagetoolbar.settings.save.prompt.key "v">
 <!ENTITY imagetoolbar.settings.save.autosave.key "s">
+<!ENTITY imagetoolbar.settings.save.timeuid.key "U">
 <!ENTITY imagetoolbar.settings.customise.display "Visa följande knappar:">
 <!ENTITY imagetoolbar.settings.customise.iconsize "Små ikoner">
 <!ENTITY imagetoolbar.settings.customise.textlabels "Ikontext">

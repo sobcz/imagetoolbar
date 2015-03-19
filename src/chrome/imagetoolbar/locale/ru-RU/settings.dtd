@@ -12,8 +12,10 @@
 <!ENTITY imagetoolbar.settings.save.click "Нажатие на кнопке сохранения должно:">
 <!ENTITY imagetoolbar.settings.save.prompt "предлагать указать расположение и имя файла">
 <!ENTITY imagetoolbar.settings.save.autosave "автоматически сохранить в установленную папку">
+<!ENTITY imagetoolbar.settings.save.timeuid "Use time-based unique file names">
 <!ENTITY imagetoolbar.settings.save.prompt.key "р">
 <!ENTITY imagetoolbar.settings.save.autosave.key "м">
+<!ENTITY imagetoolbar.settings.save.timeuid.key "U">
 <!ENTITY imagetoolbar.settings.customise.display "Показывать сл. кнопки:">
 <!ENTITY imagetoolbar.settings.customise.iconsize "Использовать маленькие значки">
 <!ENTITY imagetoolbar.settings.customise.textlabels "Показывать подписи к значкам">

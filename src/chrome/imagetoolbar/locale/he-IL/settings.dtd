@@ -12,8 +12,10 @@
 <!ENTITY imagetoolbar.settings.save.click "לחיצה על כפתור השמירה אמורה:">
 <!ENTITY imagetoolbar.settings.save.prompt "לדרוש מיקום ושם קובץ">
 <!ENTITY imagetoolbar.settings.save.autosave "לשמור אוטומטית לתיקיית ברירת המחדל">
+<!ENTITY imagetoolbar.settings.save.timeuid "Use time-based unique file names">
 <!ENTITY imagetoolbar.settings.save.prompt.key "P">
 <!ENTITY imagetoolbar.settings.save.autosave.key "M">
+<!ENTITY imagetoolbar.settings.save.timeuid.key "U">
 <!ENTITY imagetoolbar.settings.customise.display "הראה הכפתורים הבאים:">
 <!ENTITY imagetoolbar.settings.customise.iconsize "השתמש בצלמיות קטנות">
 <!ENTITY imagetoolbar.settings.customise.textlabels "הראה תויות טקסט">

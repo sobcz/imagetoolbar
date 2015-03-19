@@ -12,8 +12,10 @@
 <!ENTITY imagetoolbar.settings.save.click "Kun napsautat Tallenna -painiketta:">
 <!ENTITY imagetoolbar.settings.save.prompt "kysy kansion ja tiedoston nimeä">
 <!ENTITY imagetoolbar.settings.save.autosave "tallenna automaattisesti oletuskansioon">
+<!ENTITY imagetoolbar.settings.save.timeuid "Use time-based unique file names">
 <!ENTITY imagetoolbar.settings.save.prompt.key "P">
 <!ENTITY imagetoolbar.settings.save.autosave.key "M">
+<!ENTITY imagetoolbar.settings.save.timeuid.key "U">
 <!ENTITY imagetoolbar.settings.customise.display "Näytä seuraavat painikkeet:">
 <!ENTITY imagetoolbar.settings.customise.iconsize "Käytä pieniä kuvakkeita">
 <!ENTITY imagetoolbar.settings.customise.textlabels "Näytä tekstiselitteet">

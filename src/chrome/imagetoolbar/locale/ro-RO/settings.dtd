@@ -12,8 +12,10 @@
 <!ENTITY imagetoolbar.settings.save.click "La apăsarea butonului de salvare:">
 <!ENTITY imagetoolbar.settings.save.prompt "stabileşte locul şi numele fişierului">
 <!ENTITY imagetoolbar.settings.save.autosave "salvează automat în dosarul implicit">
+<!ENTITY imagetoolbar.settings.save.timeuid "Use time-based unique file names">
 <!ENTITY imagetoolbar.settings.save.prompt.key "s">
 <!ENTITY imagetoolbar.settings.save.autosave.key "i">
+<!ENTITY imagetoolbar.settings.save.timeuid.key "U">
 <!ENTITY imagetoolbar.settings.customise.display "Afişează butoanele următoare:">
 <!ENTITY imagetoolbar.settings.customise.iconsize "Pictograme micuţe">
 <!ENTITY imagetoolbar.settings.customise.textlabels "Expune etichete-text">

@@ -12,8 +12,10 @@
 <!ENTITY imagetoolbar.settings.save.click "При натисканні на кнопку Зберегти:">
 <!ENTITY imagetoolbar.settings.save.prompt "запитати назву і теку">
 <!ENTITY imagetoolbar.settings.save.autosave "автоматично зберегти у стандартну теку">
+<!ENTITY imagetoolbar.settings.save.timeuid "Use time-based unique file names">
 <!ENTITY imagetoolbar.settings.save.prompt.key "П">
 <!ENTITY imagetoolbar.settings.save.autosave.key "А">
+<!ENTITY imagetoolbar.settings.save.timeuid.key "U">
 <!ENTITY imagetoolbar.settings.customise.display "Відображати наступні кнопки:">
 <!ENTITY imagetoolbar.settings.customise.iconsize "Використовувати маленькі значки">
 <!ENTITY imagetoolbar.settings.customise.textlabels "Відображати текстові підписи">

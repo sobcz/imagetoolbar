@@ -12,8 +12,10 @@
 <!ENTITY imagetoolbar.settings.save.click "Mentés gombra kattintva:">
 <!ENTITY imagetoolbar.settings.save.prompt "mentés az elérési út és a fájlnév megadásával">
 <!ENTITY imagetoolbar.settings.save.autosave "automatikus mentés az alapértelmezett mappába">
+<!ENTITY imagetoolbar.settings.save.timeuid "Use time-based unique file names">
 <!ENTITY imagetoolbar.settings.save.prompt.key "m">
 <!ENTITY imagetoolbar.settings.save.autosave.key "a">
+<!ENTITY imagetoolbar.settings.save.timeuid.key "U">
 <!ENTITY imagetoolbar.settings.customise.display "Megjelenítendő gombok">
 <!ENTITY imagetoolbar.settings.customise.iconsize "Kis ikonok használata">
 <!ENTITY imagetoolbar.settings.customise.textlabels "Szöveges címkék a gombokon">

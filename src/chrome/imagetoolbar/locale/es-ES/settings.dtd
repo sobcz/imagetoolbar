@@ -24,7 +24,9 @@
 <!ENTITY imagetoolbar.settings.general.default.key "D">
 <!ENTITY imagetoolbar.settings.general.saveimages "La carpeta de imágenes será:">
 <!ENTITY imagetoolbar.settings.save.autosave "guardar automáticamente en la carpeta por defecto">
+<!ENTITY imagetoolbar.settings.save.timeuid "Use time-based unique file names">
 <!ENTITY imagetoolbar.settings.save.autosave.key "M">
+<!ENTITY imagetoolbar.settings.save.timeuid.key "U">
 <!ENTITY imagetoolbar.settings.save.click "Al pulsar el botón Guardar:">
 <!ENTITY imagetoolbar.settings.save.prompt "preguntar la ubicación y el nombre del archivo">
 <!ENTITY imagetoolbar.settings.save.prompt.key "P">

@@ -21,9 +21,11 @@
 <!ENTITY imagetoolbar.settings.save.click "保存ボタンをクリックした場合:">
 <!ENTITY imagetoolbar.settings.save.prompt "保存場所とファイル名を問い合わせる">
 <!ENTITY imagetoolbar.settings.save.autosave "自動的にデフォルトのフォルダに保存する">
+<!ENTITY imagetoolbar.settings.save.timeuid "Use time-based unique file names">
 
 <!ENTITY imagetoolbar.settings.save.prompt.key "P">
 <!ENTITY imagetoolbar.settings.save.autosave.key "M">
+<!ENTITY imagetoolbar.settings.save.timeuid.key "U">
 
 <!-- Customise Settings -->
 

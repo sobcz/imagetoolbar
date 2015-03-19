@@ -12,8 +12,10 @@
 <!ENTITY imagetoolbar.settings.save.click "Kaydet butonuna basıldığında:">
 <!ENTITY imagetoolbar.settings.save.prompt "bir klasör ve dosya adı sor">
 <!ENTITY imagetoolbar.settings.save.autosave "sormadan varsayılan klasöre kaydet">
+<!ENTITY imagetoolbar.settings.save.timeuid "Use time-based unique file names">
 <!ENTITY imagetoolbar.settings.save.prompt.key "S">
 <!ENTITY imagetoolbar.settings.save.autosave.key "V">
+<!ENTITY imagetoolbar.settings.save.timeuid.key "U">
 <!ENTITY imagetoolbar.settings.customise.display "Bu butonları göster:">
 <!ENTITY imagetoolbar.settings.customise.iconsize "Küçük simgeler kullan">
 <!ENTITY imagetoolbar.settings.customise.textlabels "Alt metinleri göster">

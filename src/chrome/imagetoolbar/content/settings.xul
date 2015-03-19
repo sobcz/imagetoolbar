@@ -82,6 +82,9 @@
       <preference id="imagetoolbar.behaviour.promptSuggest"
         name="imagetoolbar.behaviour.promptSuggest"
         type="bool"/>
+      <preference id="imagetoolbar.behaviour.autosaveTimeUID"
+        name="imagetoolbar.behaviour.autosaveTimeUID"
+        type="bool"/>
       
       <!-- Customise -->
       
@@ -193,6 +196,14 @@
                   label="&imagetoolbar.settings.save.autosave;"
                   accesskey="&imagetoolbar.settings.save.autosave.key;"
                   value="true"/>
+                <hbox class="indent">
+                  <vbox>
+                    <checkbox id="time_uids"
+                      label="&imagetoolbar.settings.save.timeuid;"
+                      accesskey="&imagetoolbar.settings.save.timeuid.key;"
+                      preference="imagetoolbar.behaviour.autosaveTimeUID"/>
+                  </vbox>
+                </hbox>
               </vbox>
             </radiogroup>
           </vbox>

@@ -1,6 +1,7 @@
 /* Image Toolbar Default Preferences */
 
 pref("imagetoolbar.behaviour.autosave",false);
+pref("imagetoolbar.behaviour.autosaveTimeUID",false);
 pref("imagetoolbar.behaviour.folderopen",true);
 pref("imagetoolbar.behaviour.ctrlOverrideSize",true);
 pref("imagetoolbar.behaviour.ctrlOverrideDelay",true);

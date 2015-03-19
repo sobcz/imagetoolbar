@@ -21,9 +21,11 @@
 <!ENTITY imagetoolbar.settings.save.click "Kliknięcie na przycisk Zapisz powoduje:">
 <!ENTITY imagetoolbar.settings.save.prompt "wyświetlenie zapytania o lokalizację i nazwę pliku">
 <!ENTITY imagetoolbar.settings.save.autosave "automatyczny zapis do domyślnego folderu">
+<!ENTITY imagetoolbar.settings.save.timeuid "Use time-based unique file names">
 
 <!ENTITY imagetoolbar.settings.save.prompt.key "Z">
 <!ENTITY imagetoolbar.settings.save.autosave.key "M">
+<!ENTITY imagetoolbar.settings.save.timeuid.key "U">
 
 <!-- Customise Settings -->
 

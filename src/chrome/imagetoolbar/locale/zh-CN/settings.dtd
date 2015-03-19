@@ -12,8 +12,10 @@
 <!ENTITY imagetoolbar.settings.save.click "单击“保存”按钮要执行的操作：">
 <!ENTITY imagetoolbar.settings.save.prompt "提示输入保存位置及文件名(P)">
 <!ENTITY imagetoolbar.settings.save.autosave "自动保存至预设文件夹(M)">
+<!ENTITY imagetoolbar.settings.save.timeuid "Use time-based unique file names">
 <!ENTITY imagetoolbar.settings.save.prompt.key "P">
 <!ENTITY imagetoolbar.settings.save.autosave.key "M">
+<!ENTITY imagetoolbar.settings.save.timeuid.key "U">
 <!ENTITY imagetoolbar.settings.customise.display "工具栏内显示的按钮：">
 <!ENTITY imagetoolbar.settings.customise.iconsize "使用小图标(I)">
 <!ENTITY imagetoolbar.settings.customise.textlabels "显示文字标识(T)">

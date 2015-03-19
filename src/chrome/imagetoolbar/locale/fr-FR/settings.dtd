@@ -21,9 +21,11 @@
 <!ENTITY imagetoolbar.settings.save.click "Cliquer sur le bouton d'enregistrement permet :">
 <!ENTITY imagetoolbar.settings.save.prompt "de choisir le dossier d'enregistrement">
 <!ENTITY imagetoolbar.settings.save.autosave "l'enregistrement dans le dossier image par défaut">
+<!ENTITY imagetoolbar.settings.save.timeuid "Use time-based unique file names">
 
 <!ENTITY imagetoolbar.settings.save.prompt.key "b">
 <!ENTITY imagetoolbar.settings.save.autosave.key "d">
+<!ENTITY imagetoolbar.settings.save.timeuid.key "U">
 
 <!-- Customise Settings -->
 

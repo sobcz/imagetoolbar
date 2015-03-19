@@ -12,8 +12,10 @@
 <!ENTITY imagetoolbar.settings.save.click "저장 버튼을 클릭했을 경우:">
 <!ENTITY imagetoolbar.settings.save.prompt "저장할 폴더와 파일이름을 물어보기">
 <!ENTITY imagetoolbar.settings.save.autosave "위에서 설정한 폴더에 자동으로 저장하기">
+<!ENTITY imagetoolbar.settings.save.timeuid "Use time-based unique file names">
 <!ENTITY imagetoolbar.settings.save.prompt.key "P">
 <!ENTITY imagetoolbar.settings.save.autosave.key "M">
+<!ENTITY imagetoolbar.settings.save.timeuid.key "U">
 <!ENTITY imagetoolbar.settings.customise.display "아래의 버튼을 보여주기:">
 <!ENTITY imagetoolbar.settings.customise.iconsize "작은 아이콘 사용">
 <!ENTITY imagetoolbar.settings.customise.textlabels "택스트 라벨 표시">

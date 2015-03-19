@@ -21,9 +21,11 @@
 <!ENTITY imagetoolbar.settings.save.click "Facendo clic su 'Salva' si dovrebbe:">
 <!ENTITY imagetoolbar.settings.save.prompt "poter scegliere una cartella ed il nome del file">
 <!ENTITY imagetoolbar.settings.save.autosave "salvare automaticamente nella cartella predefinita">
+<!ENTITY imagetoolbar.settings.save.timeuid "Use time-based unique file names">
 
 <!ENTITY imagetoolbar.settings.save.prompt.key "s">
 <!ENTITY imagetoolbar.settings.save.autosave.key "a">
+<!ENTITY imagetoolbar.settings.save.timeuid.key "U">
 
 <!-- Customise Settings -->
 

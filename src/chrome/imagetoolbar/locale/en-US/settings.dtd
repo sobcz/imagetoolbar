@@ -21,9 +21,11 @@
 <!ENTITY imagetoolbar.settings.save.click "Clicking the save button should:">
 <!ENTITY imagetoolbar.settings.save.prompt "prompt for a location and filename">
 <!ENTITY imagetoolbar.settings.save.autosave "automatically save to the default folder">
+<!ENTITY imagetoolbar.settings.save.timeuid "Use time-based unique file names">
 
 <!ENTITY imagetoolbar.settings.save.prompt.key "P">
 <!ENTITY imagetoolbar.settings.save.autosave.key "M">
+<!ENTITY imagetoolbar.settings.save.timeuid.key "U">
 
 <!-- Customise Settings -->
 

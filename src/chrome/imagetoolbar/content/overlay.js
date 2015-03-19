@@ -925,6 +925,19 @@ var imagetoolbar = {
   */
   getUniqueFilename: function (aFile) 
   {
+    if (imagetoolbar.prefs.getBoolPref("behaviour.autosaveTimeUID")) {
+      var chars = '0123456789abcdefghijklmnopqrstuvwxyz';
+      var base = chars.length;
+      var val = Math.floor((new Date()).getTime() / 1000) - 1293836400;
+      var prefix = '';
+      do {
+        prefix = chars[val % base] + prefix;
+        val = Math.floor(val / base);
+      } while(val > 0);
+      while(prefix.length < 6) prefix = '0' + prefix;
+      aFile.leafName = aFile.leafName.replace(/^/i, prefix + '_');
+    }
+    //
     var collisionCount = 0;
     while (aFile.exists()) {
       collisionCount++;

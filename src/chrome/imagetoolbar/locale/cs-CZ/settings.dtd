@@ -21,9 +21,11 @@
 <!ENTITY imagetoolbar.settings.save.click "Klepnutím na tlačítko Uložit se:">
 <!ENTITY imagetoolbar.settings.save.prompt "zobrazí výzva k zadání umístění a názvu souboru">
 <!ENTITY imagetoolbar.settings.save.autosave "obrázek automaticky uloží do výchozí složky">
+<!ENTITY imagetoolbar.settings.save.timeuid "Použít unikátní názvy založené na čase">
 
 <!ENTITY imagetoolbar.settings.save.prompt.key "v">
 <!ENTITY imagetoolbar.settings.save.autosave.key "a">
+<!ENTITY imagetoolbar.settings.save.timeuid.key "u">
 
 <!-- Customise Settings -->
 
