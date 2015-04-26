@@ -1,7 +1,4 @@
 overlay	chrome://browser/content/browser.xul	chrome://imagetoolbar/content/overlay.xul
-
-content	imagetoolbar	chrome/imagetoolbar/content/
-
-locale  imagetoolbar  en-US	  chrome/imagetoolbar/locale/en-US/
-
-skin    imagetoolbar  classic chrome/imagetoolbar/skin/classic/
+content	imagetoolbar	content/
+locale  imagetoolbar  en-US	  locale/en-US/
+skin    imagetoolbar  classic/1.0 skin/
