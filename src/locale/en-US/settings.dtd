@@ -1,6 +1,6 @@
 <!-- Image Toolbar Settings Locale v0.6 -->
 
-<!ENTITY imagetoolbar.settings.title "Image Toolbar Settings">
+<!ENTITY imagetoolbar.settings.title "Image Toolbox Settings">
 <!ENTITY imagetoolbar.settings.general "General">
 <!ENTITY imagetoolbar.settings.customise "Customise">
 <!ENTITY imagetoolbar.settings.advanced "Advanced">
@@ -8,7 +8,7 @@
 <!-- General Settings -->
 
 <!ENTITY imagetoolbar.settings.general.saveimages "Image Folder should be:">
-<!ENTITY imagetoolbar.settings.general.default "Firefox's download folder">
+<!ENTITY imagetoolbar.settings.general.default "Downloads folder">
 <!ENTITY imagetoolbar.settings.general.custom "a custom folder:">
 <!ENTITY imagetoolbar.settings.general.browse "Browse...">
 
