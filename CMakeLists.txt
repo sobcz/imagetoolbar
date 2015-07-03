@@ -4,7 +4,7 @@ project (imagetoolbox)
 
 # Preprocessor Metadata
 set(ADDON_ID "imagetoolbox@addons.palemoon.org")
-set(ADDON_VERSION "1.0.0")
+set(ADDON_VERSION "1.0.1")
 set(ADDON_NAME "Image Toolbox")
 set(ADDON_XPI_NAME "imagetoolbox")
 set(ADDON_SHORT_DESC "Single-click access to common actions for images (e.g. saving, copying, printing)")
@@ -13,7 +13,7 @@ set(ADDON_AUTHOR "Pale Moon Add-ons Team")
 set(ADDON_TARGET_APP_NAME "Pale Moon")
 set(ADDON_TARGET_APP_ID "{8de7fcbb-c55c-4fbe-bfc5-fc555c87dbc4}")
 set(ADDON_TARGET_APP_MINVER "25.0")
-set(ADDON_TARGET_APP_MAXVER "25.*")
+set(ADDON_TARGET_APP_MAXVER "26.*")
 set(ADDON_APMO_ID "pm-142")
 set(ADDON_APMO_TYPE "extension")
 
