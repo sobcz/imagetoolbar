@@ -548,6 +548,7 @@ var imagetoolbar = {
     // otherwise do our own thing
     else 
     { 
+      const nsISupportsCString = Components.interfaces.nsISupportsCString; 
       const nsILocalFile = Components.interfaces.nsILocalFile;
       var contentDisposition = null;
       var contentType = null;
